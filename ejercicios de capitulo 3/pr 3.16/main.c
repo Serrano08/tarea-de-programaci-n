@@ -33,6 +33,8 @@ void main (void)
             MEPRO = PRO;
             MEMAT = MAT;
         }
+
+     }
         printf("\n\nAlumno con mejor promedio:\t%d\t\%5.2f", MAMAT, MAPRO);
         printf("\n\nAlumno con peor  promedio:\t%d\t\%5.2f", MEMAT, MEPRO);
-    }
+}
