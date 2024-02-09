@@ -14,7 +14,7 @@ void main (void)
     while (MAT)
     {
         SUM = 0;
-        for (I = 1; I< = 5; I++)
+        for (I = 1; I <= 5; I++)
         {
             printf("\tIngrese la calificacion del alumno: ", I);
             scanf("%f", &CAL);
